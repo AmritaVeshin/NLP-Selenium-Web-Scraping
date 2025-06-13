@@ -30,11 +30,11 @@ This project scrapes investor data from [kando.tech/investors](https://kando.tec
 
 ## 📁 Project Contents
 
-kando-investor-data-scraper/
-│
-├── Kando_Investors_WebScraping.ipynb # 💻 Main scraping notebook (Jupyter Notebook)
-├── AmritaVeshin_kando_all_investors.csv # 📄 Final scraped investor dataset (12,000+ rows)
-└── README.md # 📘 Documentation
+kando-investor-data-scraper/<br>
+│<br>
+├── Kando_Investors_WebScraping.ipynb # 💻 Main scraping notebook (Jupyter Notebook)<br>
+├── AmritaVeshin_kando_all_investors.csv # 📄 Final scraped investor dataset (12,000+ rows)<br>
+└── README.md # 📘 Documentation<br>
 
 ## 🚀 Getting Started
 
